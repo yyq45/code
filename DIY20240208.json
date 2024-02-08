@@ -1,29 +1,29 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/pg.jar",
+  "spider": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/spider/pg.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 /*-----------------------直播代码-----------------------*/
   "lives": [{
       "name": "lives",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/lib/live.txt",
+      "url": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/lib/live.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
   }],
 /*-----------------------网站代码-----------------------*/
   "sites": [
-        {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/lib/alist.json"},
-{"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉中文字幕.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉久久热","name":"新香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉久久热.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉废柴网","name":"新香蕉废柴网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉废柴网.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉国产传媒","name":"新香蕉国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉国产传媒.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉超清资源","name":"新香蕉超清资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉超清资源.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉麻豆女优","name":"新香蕉麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉麻豆女优.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉实时直播","name":"新香蕉实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉实时直播.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉AV解说","name":"新香蕉AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉AV解说.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"},
-{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/麻豆映画.json"},
+        {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/lib/alist.json"},
+{"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉中文字幕.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉久久热","name":"新香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉久久热.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉废柴网","name":"新香蕉废柴网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉废柴网.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉国产传媒","name":"新香蕉国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉国产传媒.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉超清资源","name":"新香蕉超清资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉超清资源.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉麻豆女优","name":"新香蕉麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉麻豆女优.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉实时直播","name":"新香蕉实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉实时直播.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉AV解说","name":"新香蕉AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉AV解说.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/麻豆映画.json"},
 
-{"key": "MissAV","name": "MissAV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://missav.com/cn/{cateId}?page={catePg}","分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"},"jar": "https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/spider/Yoursmile2.jar"}, 
+{"key": "MissAV","name": "MissAV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://missav.com/cn/{cateId}?page={catePg}","分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"},"jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"}, 
     {"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
     {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -59,7 +59,7 @@
       {"key":"hghhh.com","name":"皇冠资源","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://hghhh.com/api.php/provide/vod/","searchable":1},
       {"key":"apilj.com","name":"辣椒资源","type":1,"style":{"type":"rect","ratio":1.485},"api":" http://api.11bat.com/api.php/provide/vod","searchable":1},
 
-    {"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"https://agit.ai/weigs/w/raw/branch/master/lib/drpy.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yyq45/code/main/sub/18av.js"},
+    {"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"https://agit.ai/weigs/w/raw/branch/master/lib/drpy.min.js","ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/18av.js"},
     {"key":"lbapiby.com","name":"成人24","type":0,"style":{"type":"rect","ratio":1.485},"api":"http://lbapiby.com/api.php/provide/vod","searchable":1},
     {"key": "利来资源", "name": "利来资源", "type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "http://llzxcj.com/inc/sck.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key":"sdszyapi.com","name":"色屌丝资源","type":0,"style":{"type":"rect","ratio":1.485},"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","searchable":1},
