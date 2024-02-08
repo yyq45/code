@@ -5,15 +5,9 @@
     {"name": "九仙阁","server": "https://drive.9t.ee","params": [
               {"path": "/OneDrive","pass": "dooglu"},
               {"path": "/115Cloud","pass": "dooglu"}]},
-//本站地址：https://pan.ecve.cn   webdav配置【完整地址:https://pan.ecve.cn/dav 路径：dav端口：443账户：dav 密码：dav】
     {"name": "ECVE","server": "https://pan.ecve.cn"},
     {"name": "触光云盘","server": "https://pan.ichuguang.com"},
     {"name": "星梦","server": "https://pan.bashroot.top"},
-//七米蓝 永久链接github.com/ChirmyRam/ChirmyRam-OneDrive-Repository
     {"name": "七米蓝","server": "https://al.chirmyram.com/dav","user": "alist","pass": "alist"},
-//  {"name": "alist.eduedu.eu.org","server": "https://alist.eduedu.eu.org"},
-//  {"name": "LG五星棒","server": "https://lala-ofbip.run.goorm.site"},
-//  {"name": "罗汉果AV","server": "https://lala-ofbip.run.goorm.site"},
-//    {"name": "影視庫","server": "https://esir.eu.org/dav","user": "alist","pass": "alist"}
   ]
 }
