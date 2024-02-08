@@ -8,6 +8,6 @@
     {"name": "ECVE","server": "https://pan.ecve.cn"},
     {"name": "触光云盘","server": "https://pan.ichuguang.com"},
     {"name": "星梦","server": "https://pan.bashroot.top"},
-    {"name": "七米蓝","server": "https://al.chirmyram.com/dav","user": "alist","pass": "alist"},
+    {"name": "七米蓝","server": "https://al.chirmyram.com/dav","user": "alist","pass": "alist"}
   ]
 }
