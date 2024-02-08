@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/spider/pg.jar",
+  "spider": "https://agit.ai/fenwe/TVBox/raw/branch/master/jar/pg.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 /*-----------------------直播代码-----------------------*/
   "lives": [{
@@ -10,7 +10,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
   }],
-/*-----------------------网站代码-----------------------*/
+/*-----------------------网站代码------"type":0=xml采集接口;1=josn采集接口;3=js文件-----------------*/
   "sites": [
         {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/lib/alist.json"},
 {"key":"csp_xBPQ_新香蕉中文字幕","name":"新香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉中文字幕.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
@@ -21,9 +21,7 @@
 {"key":"csp_xBPQ_新香蕉麻豆女优","name":"新香蕉麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉麻豆女优.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
 {"key":"csp_xBPQ_新香蕉实时直播","name":"新香蕉实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉实时直播.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
 {"key":"csp_xBPQ_新香蕉AV解说","name":"新香蕉AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/新香蕉AV解说.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
-{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/麻豆映画.json"},
-
-{"key": "MissAV","name": "MissAV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://missav.com/cn/{cateId}?page={catePg}","分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"},"jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"}, 
+{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/麻豆映画.json","jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"},
     {"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
     {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -32,9 +30,9 @@
     {"key":"量子资源","name":"量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
     {"key":"非凡资源","name":"非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
     {"key": "麻豆村","name": "👠麻豆村","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api": "https://madoucun.cn/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-    { "key": "鲨鱼资源", "name": "鲨鱼资源", "type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "http://shayuzy5.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
-     { "key": "大地资源", "name": "大地资源", "type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-      {"key":"玉兔资源","name":"玉兔资源(切片)","type":0,"style":{"type":"rect","ratio":1.485},"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+    { "key": "鲨鱼资源", "name":"鲨鱼资源", "type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "http://shayuzy5.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+     { "key": "大地资源", "name":"大地资源", "type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+      {"key":"玉兔资源","name":"玉兔资源","type":0,"style":{"type":"rect","ratio":1.485},"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
        {"key":"91麻豆","name":"91麻豆","type":1,"style":{"type":"rect","ratio":1.485},"api":"http://91md.me/api.php/provide/vod/","searchable":1},
        {"key":"探探采集","name":"探探av","type":1,"searchable":0,"quickSearch":0,"api": "https://apittzy.com/api.php/provide/vod/?ac=list","playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="},
        {"key":"番号资源","name":"番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -42,9 +40,9 @@
        {"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
        {"key":"S猫资源","name":"S猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
        {"key":"黄AV资源","name":"黄AV资源","type":0,"searchable":0,"quickSearch":0,"api":"https://www.pgxdy.com/api/xml.php","playUrl":""},
-       {"key":"丝袜资源","name":"*丝袜资源","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api":"https://siwazyw.tv/api.php/provide/vod/","searchable":0,"quickSearch":0},
-       {"key":"色猫资源","name":"*色猫资源","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api":"https://caiji.semaozy.net/inc/api.php","searchable":0,"quickSearch":0},
-       {"key":"老鸭资源","name":"*老鸭资源","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0}, 
+       {"key":"丝袜资源","name":"丝袜资源","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api":"https://siwazyw.tv/api.php/provide/vod/","searchable":0,"quickSearch":0},
+       {"key":"色猫资源","name":"色猫资源","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api":"https://caiji.semaozy.net/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+       {"key":"老鸭资源","name":"老鸭资源","type": 1,"style":{ "type":"rect", "ratio":1.485 },"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0}, 
       {"key":"美少女资源","name":"美少女资源","type": 0,"style":{ "type":"rect", "ratio":1.485 },"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
       {"key":"淫水机资源","name":"淫水机资源","type": 0,"style":{ "type":"rect", "ratio":1.485 },"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
       {"key":"香奶儿资源","name":"香奶儿资源","type": 0,"style":{ "type":"rect", "ratio":1.485 },"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
@@ -59,6 +57,7 @@
       {"key":"hghhh.com","name":"皇冠资源","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://hghhh.com/api.php/provide/vod/","searchable":1},
       {"key":"apilj.com","name":"辣椒资源","type":1,"style":{"type":"rect","ratio":1.485},"api":" http://api.11bat.com/api.php/provide/vod","searchable":1},
 
+    {"key": "MissAV","name": "MissAV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://missav.com/cn/{cateId}?page={catePg}","分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"},"jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar"}, 
     {"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"https://agit.ai/weigs/w/raw/branch/master/lib/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yyq45/code/main/sub/18av.js"},
     {"key":"lbapiby.com","name":"成人24","type":0,"style":{"type":"rect","ratio":1.485},"api":"http://lbapiby.com/api.php/provide/vod","searchable":1},
     {"key": "利来资源", "name": "利来资源", "type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "http://llzxcj.com/inc/sck.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
